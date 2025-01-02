@@ -5,7 +5,8 @@ This project is a simple implementation of the Caesar cipher encryption and decr
 # Working
 The project is built on the fundamental logic of a numeric key value, which is used to alter the position values of individual alphabets in a text. A key of numeric number “3” is applied to plain text to shift the alphabet to the right three times eventually making the plain text encrypted into the cipher text.
 
-![image](https://github.com/user-attachments/assets/43d8c0ee-0bd3-48e5-88c1-19b8fefbf5d9)
+![image](https://github.com/user-attachments/assets/6ddd8099-6529-4bce-bf23-ce5627940f27)
+
 
 # Example
 To Encrypt : 
