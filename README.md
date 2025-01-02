@@ -15,7 +15,6 @@ If you want to decrypt the cipher text "VHFXULWB" with the shift of 3, it will r
 
 # Files
 The project consists of the following files:
-
 a. home_page.html: The HTML file containing the user interface and JavaScript code.
 b. interface_style.css: The CSS file for styling the user interface.
 c. caesar_cipher.js: The JavaScript file containing the implementation of the Caesar cipher algorithm.
